@@ -41,6 +41,7 @@ class SecondPageViewModel : ViewModel() {
                     name = results.name
                     address = results.location.formatted_address
                     if(results.categories.isNotEmpty() && results.categories != null){
+                        categories = mutableListOf<String>()
                         for(item in results.categories){
                             categories.add(item.name)
                         }
