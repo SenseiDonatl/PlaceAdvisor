@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Place Advisor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="places">Put a location here: Amsterdam</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_details">Details</string>
+    <string name="about_text">With Place Advisor app we expect to give you the best recommendations of venues near you! Still in Development</string>
+</resources>
